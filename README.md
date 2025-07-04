@@ -41,7 +41,7 @@ To further explore the dataset, an unsupervised learning approach was applied.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/harry7747/Rainfall-Prediction-Classifier/tree/main>
     ```
 2.  **Install dependencies:**
     ```bash
