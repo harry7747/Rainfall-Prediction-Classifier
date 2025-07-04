@@ -1,4 +1,4 @@
-# Rainfall Prediction Classifier Model: Project README
+# Rainfall Prediction Classifier Model
 
 ## 1. Project Overview
 
@@ -55,7 +55,7 @@ To further explore the dataset, an unsupervised learning approach was applied.
 
 ## 4. Technologies Used
 
-* **Language:** Python 3.x
+* **Language:** Python 3.13
 * **Libraries:**
     * Pandas
     * NumPy
