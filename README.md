@@ -1,4 +1,4 @@
-# Predictive Classification Model: Project README
+# Rainfall Prediction Classifier Model: Project README
 
 ## 1. Project Overview
 
