@@ -49,7 +49,7 @@ To further explore the dataset, an unsupervised learning approach was applied.
     ```
     *(Note: You may need to create a `requirements.txt` file listing libraries like pandas, scikit-learn, numpy, matplotlib, etc.)*
 3.  **Run the Jupyter Notebook or Python script:**
-    The main analysis and model training code can be found in `[your_notebook_name].ipynb`.
+    The main analysis and model training code can be found in `Rainfall_Prediction_Classifier.ipynb`.
 
 ---
 
